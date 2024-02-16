@@ -1,0 +1,48 @@
+.figo{
+    font-weight: bolder;
+}
+
+.home{
+    font-weight: bold;
+}
+
+.h40{
+  font-weight: bold;
+  font-weight: 200px;
+}
+
+.h48{
+    font-size: 25px;
+    color: rgb(156, 150, 150);
+}
+
+.address{
+    flex-grow: 1;
+}
+
+.p65{
+      
+      margin-right: 40px;
+}
+
+.chlid > img{
+    /* margin-left: 90px; */
+}
+
+.chlid{
+   border: 1px solid rgb(114, 113, 113);
+   width: 300px;
+   margin: 70px;
+   padding: 20px;
+   text-align: center;
+}
+.parent{
+   display: flex;
+   justify-content: space-around;
+   gap: 20px;
+}
+
+.parent:hover{
+    border-bottom: 4px solid rgb(62, 92, 62);
+    cursor: pointer;
+}
